@@ -1,0 +1,37 @@
+# Windows özel dosyalar
+Thumbs.db
+ehthumbs.db
+
+# .NET projeleri için geçici dosyalar
+bin/
+obj/
+
+# C# klasörleri ve dosyaları
+.vs/
+.vscode/
+.idea/
+
+# Rider IDE geçici dosyaları
+.idea/
+
+# Kullanıcıya özel dosyalar
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Çalıştırılabilir dosyalar (output)
+*.exe
+*.dll
+*.pdb
+*.app
+*.dSYM/
+
+# NuGet paketleri
+packages/
+
+# DotCover (Kod kapsamı araçları)
+.idea/
+
+# ASP.NET uygulamaları için geçici dosyalar
+app_data/
